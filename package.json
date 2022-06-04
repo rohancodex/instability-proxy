@@ -1,0 +1,17 @@
+{
+  "name": "instability-cors-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "pass-cors": "^1.1.0",
+    "pm2": "^5.2.0"
+  }
+}
